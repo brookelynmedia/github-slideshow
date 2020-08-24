@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to BrookelynMedia's slide!"
 ---
-"A brand new day"
+"This is my awesome slide"
 Use the left arrow to go back!
